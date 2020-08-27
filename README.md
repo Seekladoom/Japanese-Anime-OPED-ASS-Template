@@ -8,3 +8,6 @@
 图文版：https://www.maoken.com/all-fonts-imgs
 
 对字体有顾虑的朋友可以下载这里的免费可商用字体规避侵权风险。
+
+
+This open source project is mainly for Japanese animation’s OPED STAFF, LOGO, characters and other elements to imitate ASS special effects templates. Single-stage templates are given priority. Multi-stage effect templates are determined by the situation and updated from time to time.
